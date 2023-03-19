@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Carestack social media project 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is built using react js.
+The UI of Login, register, home and profile has only been finished.
+I was not able to create restapi part due to some time issues.
+Blockers: Internal exams and mini porject  
+
+
 
 ## Available Scripts
 
