@@ -20,10 +20,10 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 Available routes are
-http://localhost:3000/
-http://localhost:3000/login
-http://localhost:3000/register
-http://localhost:3000/profile/username
+### http://localhost:3000/
+### http://localhost:3000/login
+### http://localhost:3000/register
+### http://localhost:3000/profile/username
 
 ### `npm test`
 
